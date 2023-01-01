@@ -1,0 +1,29 @@
+.ficha-filme {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.container {
+  margin-bottom: 50px;
+  background-color: gray;
+  width: 45%;
+}
+
+.figura {
+  float: left;
+  margin-right: 10px;
+  margin-top: 16px;
+  margin-left: 16px;
+  padding: 0;
+  width: 150px;
+  height: 150px;
+}
+
+.estrela {
+  float: right;
+  color: yellow;
+}
